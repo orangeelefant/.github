@@ -1,49 +1,42 @@
 # CLAUDE.md
 
-Project context for Claude Code sessions in this repository.
+Projektkontext för Claude Code-sessioner i det här repot.
 
-## What This Is
+## Vad det är
 
-orangeelefant organization profile
+GitHub-organisationsprofilen för `orangeelefant`. `profile/README.md` är det som visas
+överst på https://github.com/orangeelefant.
 
-**Live:** https://webraketen.se
+Repot heter `.github` på GitHub. Lokalt ligger det som `apps/github-org-profile` så att
+det inte blir en dold mapp.
 
 ## Stack
 
-_(Fill in: framework, language, hosting, key services. Inspect `package.json` / `pyproject.toml` / similar to confirm.)_
+Ingen. Bara markdown. Inget bygge, inga beroenden, ingen deploy — GitHub renderar
+`profile/README.md` direkt.
 
 ## Layout
 
-- `src/` — source code
-- `tests/` — tests
-- `docs/` — documentation
-- `scripts/` — utility scripts
+- `profile/README.md` — **profiltexten som syns publikt**. Det är den här filen som räknas.
+- `ABOUT.md` — längre bakgrund, syns inte på profilsidan.
+- `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` — repodokumentation.
 
-## Commands
+## Kommandon
 
-```bash
-# install
-# build
-# test
-# dev
-```
+Inga. Redigera markdown, committa, pusha — ändringen syns direkt på profilsidan.
 
-_(Fill in actual commands once known.)`_
+## Konventioner
 
-## Conventions
+- Profilen är personlig och engelskspråkig. `ABOUT.md` beskriver Webraketen-flottan.
+- **Länka aldrig till `github.com/Webraketen`** — organisationen togs bort 2026-07-30
+  och URL:en ger 404. Länka till https://webraketen.se i stället.
+- Lägger du till ett projekt i profilen: kontrollera att länken lever först.
 
-- Match existing patterns; don't introduce new abstractions without reason.
-- Keep files under 500 lines.
-- Swedish copy for client-facing text unless otherwise specified.
-- Secrets live in `~/.secrets` and are referenced via `${VAR}`.
+## Klart betyder
 
-## Definition of Done
+1. Länkarna i ändringen är verifierade (inga 404).
+2. `CHANGELOG.md` uppdaterad under `[Unreleased]`.
+3. `TODO.md` stämd av.
+4. Committat och pushat till `main`.
 
-A change is done when:
-
-1. Code works (built and verified locally).
-2. `CHANGELOG.md` updated under `[Unreleased]`.
-3. `TODO.md` reconciled (completed items removed or ticked, follow-ups added).
-4. Committed and pushed to `main`.
-
-See `AGENTS.md` for the full agent contract.
+Hela agentkontraktet står i `AGENTS.md`.

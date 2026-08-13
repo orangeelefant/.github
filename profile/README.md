@@ -1,6 +1,6 @@
 # orangeelefant
 
-Personal projects by **Christoffer Holmgren** — web/digital consultant based in Göteborg, Sweden. Day job: [Webraketen](https://github.com/Webraketen).
+Personal projects by **Christoffer Holmgren** — web/digital consultant based in Göteborg, Sweden. Day job: [Webraketen](https://webraketen.se).
 
 → christofferholmgrendokakis@gmail.com
 
