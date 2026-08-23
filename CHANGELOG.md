@@ -4,6 +4,10 @@ All notable changes to this project are documented here. Format loosely follows 
 
 Every commit that changes behavior, copy, configuration, or dependencies MUST add an entry under `[Unreleased]` before being pushed.
 
+## 2026-08-23
+
+- **README.md tillagd** Krav enligt repo-standards. Ingen kod ändrad.
+
 ## [Unreleased]
 
 - Bytte död länk till `github.com/Webraketen` (organisationen borttagen 2026-07-30) mot https://webraketen.se i profiltexten (2026-08-13).
