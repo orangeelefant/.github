@@ -18,7 +18,6 @@ Ingen. Bara markdown. Inget bygge, inga beroenden, ingen deploy — GitHub rende
 ## Layout
 
 - `profile/README.md` — **profiltexten som syns publikt**. Det är den här filen som räknas.
-- `ABOUT.md` — längre bakgrund, syns inte på profilsidan.
 - `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` — repodokumentation.
 
 ## Kommandon
@@ -27,7 +26,7 @@ Inga. Redigera markdown, committa, pusha — ändringen syns direkt på profilsi
 
 ## Konventioner
 
-- Profilen är personlig och engelskspråkig. `ABOUT.md` beskriver Webraketen-flottan.
+- Profilen är personlig och engelskspråkig.
 - **Länka aldrig till `github.com/Webraketen`** — organisationen togs bort 2026-07-30
   och URL:en ger 404. Länka till https://webraketen.se i stället.
 - Lägger du till ett projekt i profilen: kontrollera att länken lever först.
