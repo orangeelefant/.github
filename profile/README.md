@@ -2,7 +2,7 @@
 
 Personal projects by **Christoffer** — web/digital consultant based in Göteborg, Sweden. Day job: [Webraketen](https://webraketen.se).
 
-→ christoffer@webraketen.se
+→ hej@webraketen.se
 
 ---
 

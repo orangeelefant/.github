@@ -10,6 +10,7 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Kontaktadressen är hej@webraketen.se i stället för den privata Gmail-adressen. Repot arkiveras: GitHub visar aldrig en `.github`-profil för ett användarkonto (2026-09-29).
 - README: rättat att profilen här inte visas, eftersom `orangeelefant` är ett användarkonto. Den synliga profilen ligger i `orangeelefant/orangeelefant` (2026-09-29).
 
 - OCR-granskning: tog bort hänvisningar till `ABOUT.md` i `CLAUDE.md` (filen har aldrig funnits) (2026-09-23).
