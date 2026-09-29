@@ -10,6 +10,8 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- README: rättat att profilen här inte visas, eftersom `orangeelefant` är ett användarkonto. Den synliga profilen ligger i `orangeelefant/orangeelefant` (2026-09-29).
+
 - OCR-granskning: tog bort hänvisningar till `ABOUT.md` i `CLAUDE.md` (filen har aldrig funnits) (2026-09-23).
 - Bytte död länk till `github.com/Webraketen` (organisationen borttagen 2026-07-30) mot https://webraketen.se i profiltexten (2026-08-13).
 - Fyllde `CLAUDE.md` med verkligt innehåll i stället för bootstrap-platshållare (2026-08-13).

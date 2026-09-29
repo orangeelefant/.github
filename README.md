@@ -1,7 +1,8 @@
 # github-org-profile
 
-GitHub-organisationsprofilen för `orangeelefant`. `profile/README.md` är det som visas
-överst på https://github.com/orangeelefant.
+Tidigare organisationsprofil för `orangeelefant`. `orangeelefant` är ett användarkonto, så
+GitHub visar inte `profile/README.md` här. Profilen som syns på https://github.com/orangeelefant
+ligger i repot `orangeelefant/orangeelefant`.
 
 Repot heter `.github` på GitHub. Lokalt ligger det som `apps/github-org-profile` så att det
 inte blir en dold mapp i arbetsytan.
